@@ -1,4 +1,4 @@
-# Expense-Tracker-MERNstack
+# Expense Tracker MERN-Stack
 
 ### [1] See Live Version Immediately
 If you would like to see the app head over to this link (https://tracker-mern-app.herokuapp.com) and check it out.
