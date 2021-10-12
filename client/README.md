@@ -19,9 +19,9 @@ Expense Tracker is a MERN Stack web application built using React.js, Node.js, M
 
 ### [4] Screenshots
 
-![Mohmed Ishak](https://user-images.githubusercontent.com/52876913/136593564-50144f55-5833-4eb1-a52b-cd2cc7f7d83d.png)
-![Mohmed Ishak](https://user-images.githubusercontent.com/52876913/136593575-8da1319b-8db9-4198-89f6-f0c48621e4d1.png)
-![Mohmed Ishak](https://user-images.githubusercontent.com/52876913/136593583-d093d16b-cbe9-4a8e-88db-77e34a3d581d.png)
+![Mohmed Ishak]()
+![Mohmed Ishak]()
+![Mohmed Ishak]()
 
 ### [5] Hosting
 * Frontend: Heroku
